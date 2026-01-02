@@ -22,9 +22,9 @@ bundle install
 
 Create a file called .env in the same folder:
 
-OPENSEARCH_HOST=https://your-opensearch-host:port
-OPENSEARCH_USER=your-username
-OPENSEARCH_PASSWORD=your-password
+OS_H=https://your-opensearch-host:port
+OS_U=your-username
+OS_PW=your-password
 
 Run the script
 You should see:
